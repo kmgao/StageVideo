@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8EA4EEBA-374E-4AB3-8C99-1D573F130009</string>
+	<key>IDESourceControlProjectName</key>
+	<string>StageVideo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3143C102-8F06-4951-A589-DC5FC3BE888A</key>
+		<string>https://bitbucket.org/kmgao/stagevideo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>StageVideo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3143C102-8F06-4951-A589-DC5FC3BE888A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/kmgao/stagevideo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3143C102-8F06-4951-A589-DC5FC3BE888A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3143C102-8F06-4951-A589-DC5FC3BE888A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>stagevideo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
